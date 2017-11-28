@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/shell.dir/src/command.c.o CMakeFiles/shell.dir/src/input.c.o CMakeFiles/shell.dir/src/output.c.o CMakeFiles/shell.dir/src/proc.c.o CMakeFiles/shell.dir/src/shell.c.o  -o shell 
